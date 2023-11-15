@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Jiyot Manoharsingh Babrah, a passionate Mobile App Developer based in Toronto, ON.
+I'm Jiyot Manoharsingh Babrah, a passionate Mobile App Developer.
 
 ## About Me
 
