@@ -10,8 +10,9 @@ I'm Jiyot Manoharsingh Babrah, a passionate Mobile App Developer based in Toront
 
 ## Technical Skills
 
-- **Android Development:** Kotlin, Android Jetpack, MVVM, Room Database.
-- **iOS Development:** Swift, SwiftUI, Core Data.
+- **Android Development:** Kotlin, Android development IDE, Android framework- Activities, Fragments, Services, Broadcast Receivers, Android Jetpack, MVVM or MVP Architecture, Navigation, Room Database, RecyclerView, SharedPreferences.
+- **iOS Development:** Swift, SwiftUi, UIKit, Core Data, Xcode, design patterns-MVC, MVVM.
+- **Cross Platform:** React Native
 - **Full Stack and Cross-Platform:** C, C++, Java, HTML, Node.js, React-Native.
 - **Database:** MySQL, MongoDB, Google Firebase Firestore.
 - **Cloud Development:** GitHub, Jenkins, API.
